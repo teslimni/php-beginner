@@ -1,0 +1,51 @@
+MySQL
+
+# How do I join two tables together in MySQL?
+# I have a challenge creating a schema for a
+survey database I am working on. The survey is
+a teacher performance appraisal for students
+to score their teachers on a range of 1-10.
+The survey has a series of questions, up to
+10 for each teacher.
+The app will allow the school to create as many
+surveys for teachers or staff as they want.
+So I created three tables called surveys, categories
+and instructions. 
+The Surveys table contains: id, survey_items(the questions).
+The categories contains: cat_id, cat_name; and 
+the instructions caontains: id, survey_id, instructions, author, and date.
+My main challenge is that I don't know how to make sure I can save all the 
+survey question as signle entry in the survey_item column, so that whenever
+I SELECT a survey_item id, all the questions are returned together as an 
+array I can loop through.
+
+
+
+OOP
+# Does method overloading occur within a class only
+or can it occur between classes?
+
+# Is the case of a class instance (i.e an object) 
+a case of inheritance to the class?
+
+
+
+Interview
+
+I used to work for a religous ngo in Nigeria
+as a research staff on issues bordering on 
+interfaith and peaceful co-existance. I got 
+tired of the talks without actions. So after
+my 4th year I decided to leave and start my 
+own faithbased online media project being a
+graduate of Linguistics and Journalism. 
+
+I got mesmerized with the technology (WordPress).
+On a particular occassion, my logo wasn't showing
+up correctly. I knew no html or css then. So I
+decided to get someone to do it for me. It was 
+going to cost me $130 to fix just a logo. 
+
+There and then, I decided it was time to kill the
+media project and have a change of career so I started 
+learning online at learnable.com, then treehouse.com, etc.
